@@ -1,6 +1,6 @@
-//(C) CoreXenith
-//A.GKTG
-//2023
+// (C) CoreXenith
+// A.GKTG
+// 2023
 #include <iostream>
 #include <string>
 
